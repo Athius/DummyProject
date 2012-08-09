@@ -14,6 +14,7 @@ void foo(unsigned int nb)
     {
       res+= i+res*res;
     }
+
   std::cout << "res: " << res << std::endl;
 }
 
